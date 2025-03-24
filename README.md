@@ -4,6 +4,8 @@
 
 **Model**: D1
 
+**Product URL**: https://www.hikvision.com/en/products/onboard-security/dash-cameras/consumer-dash-camera/ae-dc2018-d1/
+
 ## Finding 1: Common default password across all dashcams
 
 **Description**: This allows an attacker to connect to the dashcam's network and interact with the dashcam. The SSID is always broadcasted and there's no secondary device pairing required. The wifi credentials are also hardcoded in the dashcam's config file in plaintext.
