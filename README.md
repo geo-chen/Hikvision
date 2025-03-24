@@ -57,7 +57,7 @@ The RTSP feed can be accessed directly at rtsp://192.168.1.1:554/liveRTSP/av4
 
 ## Finding 3: Exposed OS password
 
-**Description**: The OS password of the dashcam can be extracted from the firmware (downloaded from official website https://www.hikvision.com/sg/support/download/firmware/) directly because it's not XOR or encrypted or obfuscated - user:ad<REDACTED>.
+**Description**: The OS password of the dashcam can be extracted from the firmware (downloaded from official website https://www.hikvision.com/sg/support/download/firmware/) directly because it's not XOR or encrypted or obfuscated - user:ad(REDACTED).
 
 ![image](https://github.com/user-attachments/assets/45f7b1e3-e88c-4845-b56b-1fa32c532f37)
 
