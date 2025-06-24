@@ -124,6 +124,7 @@ The RTSP feed can be accessed directly at rtsp://192.168.1.1:554/liveRTSP/av4
 
 11 Mar 2025 - Provided manufacturer with response
 
+24 Jun 2025 - Public disclosure
 
 
 
